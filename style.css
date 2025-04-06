@@ -20,7 +20,7 @@ div.header {
     text-align: center;
     margin: 0;
     font-size: 30px;
-    border-bottom: 2px solid black;
+    border-bottom: 2px solid #333;
     height: 80px;
     width: 100%;
     max-width: none;
@@ -40,7 +40,7 @@ div.header {
 
 .navBar {
     position: absolute;
-    border: black;
+    border: #333;
     height: 380px;
     width: 0;
     position: fixed;
@@ -51,14 +51,14 @@ div.header {
     overflow-x: hidden;
     padding-top: 60px;
     transition: 0.5s;
-    box-shadow: 5px 5px 10px black;
+    box-shadow: 5px 5px 10px #333;
 }
 
 .navBar a {
     padding: 8px 8px 8px 32px;
     text-decoration: none;
     font-size: 25px;
-    color: black;
+    color: #333;
     display: block;
     transition: 0.3s;
 }
@@ -83,7 +83,7 @@ div.header {
     font-size: 20px;
     cursor: pointer;
     background-color: silver;
-    color: black;
+    color: #333;
     padding: 10px 15px;
     border: none;
 }
@@ -104,7 +104,7 @@ footer {
 section {
     background-color: teal;
     color: silver;
-    border: solid, black;
+    border: solid, #333;
     border-radius: 10px;
     margin-left: 8%;
     margin-right: 8%;
