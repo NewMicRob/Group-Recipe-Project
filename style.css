@@ -176,7 +176,7 @@ li {
 }
 
 .flip-card-back {
-    background-color: rgb(232, 232, 232);;
+    background-color: white;
     color: #333;
     transform: rotateY(180deg);
     box-sizing: border-box;
